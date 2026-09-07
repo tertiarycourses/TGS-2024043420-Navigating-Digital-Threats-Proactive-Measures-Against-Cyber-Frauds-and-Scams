@@ -1,0 +1,4 @@
+SIMULATED TRAINING SCENARIO
+
+Activity: Account and Device Hardening
+A staff member receives an unexpected message claiming urgent action is required. The sender shifts the conversation away from the normal channel and requests information, device access, or payment. Analyse only the supplied fictional indicators and produce the required evidence.

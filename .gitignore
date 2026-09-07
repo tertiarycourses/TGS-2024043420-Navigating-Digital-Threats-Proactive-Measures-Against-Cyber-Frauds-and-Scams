@@ -1,0 +1,10 @@
+
+.env
+.env.*
+.claude/
+.codex/
+assessment/
+reference/
+**/archive/
+build/
+qa/
